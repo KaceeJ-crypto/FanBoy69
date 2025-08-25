@@ -1,0 +1,19 @@
+feeds:
+  - https://www.stack3d.com/feed
+  - https://barbend.com/feed
+  - https://www.bodybuilding.com/rss/articles
+  - https://blog.priceplow.com/feed
+  - https://www.wsupplementsuperstores.com/blogs/blog.atom
+keywords:
+  - "protein"
+  - "creatine"
+  - "pre-workout"
+  - "supplement"
+  - "fat burner"
+  - "vitamin"
+domain_affiliates:
+  amazon.com: "tag=YOUR_AMAZON_TAG-20"
+  bodybuilding.com: "affid=YOUR_BODYBUILDING_ID"
+  myprotein.com: "aff=YOUR_MYPROTEIN_ID"
+  iherb.com: "affid=YOUR_IHERB_ID"
+  gnc.com: "aff=YOUR_GNC_ID"
