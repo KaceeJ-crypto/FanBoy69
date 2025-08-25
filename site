@@ -1,0 +1,4 @@
+site/
+  _config.yml
+  _posts/        # bot writes here
+  index.md
